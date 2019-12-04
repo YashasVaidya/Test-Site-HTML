@@ -1,0 +1,32 @@
+body {
+  background-color: #E5FCC2;
+}
+
+h1 {
+  color: #547980;
+}
+
+h3 {
+  color: #547980;
+}
+
+li {
+  color: #547980;
+
+}
+
+p {
+  color: #594F4F;
+}
+
+label {
+  color: #594F4F;
+}
+
+.link {
+  background-color: #9DE0AD;
+}
+
+#submit {
+  background-color: #547980;
+}
